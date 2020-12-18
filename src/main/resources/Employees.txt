@@ -1,0 +1,6 @@
+emp_id|emp_name|start_date
+1|Rakesh|2010
+2|Parth|2019
+3|"Mrunank|H"|2020
+4|Harkit|2009
+5|Bob|2017
