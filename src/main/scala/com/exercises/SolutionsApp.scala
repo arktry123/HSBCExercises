@@ -49,4 +49,6 @@ object SolutionsApp extends App {
   val json = """ {"name":"Tom", "age": 38} """
   parse(json).extract[Person]
 
+  val json1 = """ {"name":"Tom1", "location":"London", "age": 38} """
+  parse(json1).extract[PersonExt]
 }
